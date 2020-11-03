@@ -13,10 +13,12 @@ The four models are:
 The dataset was collected from youtube using scraping. The scraped data included title of the video and the tags.
 
 <strong>Most used words in title</strong>
+
 ![Binary Image](https://github.com/ahsan44411/Tag-Classification/blob/main/most%20used%20word%20in%20titles.png)
 
 
 <strong>Most used tags</strong>
+
 ![Binary Image](https://github.com/ahsan44411/Tag-Classification/blob/main/top%20used%20tags.png)
 
 # Dataset Preprocessing
